@@ -29,7 +29,6 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Here, I observed incoming tickets from the osTicket system as help desk agent "John" -> Priority Department SLA Assigned To with dropdown menu arrow to indicate which agent to assign ticket to -> press assign
